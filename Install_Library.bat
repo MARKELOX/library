@@ -1,0 +1,16 @@
+pip install bitcoin
+pip install pycryptodome
+pip install python-bitcoinlib
+pip install bit
+pip install bitcash
+pip install base58
+pip install chainside-btcpy
+pip install eth_keys
+pip install eth-hash[pycryptodome]
+pip install request
+pip install rich
+pip install mnemonic
+pip install bip32utils
+pip install hdwallet
+pip install simplebloomfliter
+pip install bitarray==1.9.2
